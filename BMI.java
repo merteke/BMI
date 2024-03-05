@@ -30,7 +30,7 @@ public class BMI {
         double bmi = kilo/(boy*boy);
 
         System.out.println("Kullanicinin boyu="+boy);
-        System.out.println("Kullanicinin kilisu="+kilo);
+        System.out.println("Kullanicinin kilosu="+kilo);
         System.out.println("Vucut Kutle Indeksi="+bmi);
 
 
